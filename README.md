@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://www.aksaray.edu.tr/tema/basic/img//logo.png">
 </div>
+
 # Introduction to Python Programming Language (YBS216)
 
 This is an undergraduate course repository of Introduction to Python Programming Language at Aksaray University, Department of Management Information Systems.
@@ -39,36 +40,3 @@ This is an undergraduate course repository of Introduction to Python Programming
 **Week 4.** Conditional Structures - Mar 22, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week3.rar)
 
 **Week 5.** Arrays and Lists- Mar 29, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week3.rar)
-
-
-# Yönetim Bilişim Sistemleri Bölümü Python Programlama Diline Giriş Dersi!
-
-## Müfredat
-
-### [Hafta 01](https://github.com/volkansoner/YBS216/blob/master/W1.ipynb)
-- Python nedir?
-- Sürüm Kontrolü
-- Değişkenler
-- Veri tipleri
-- Aritmetik işlemler
-- Mantıksal İşlemler
-
-### [Hafta 2](https://github.com/volkansoner/YBS216/blob/master/W2.ipynb)
-- Dönüşümler
-
-
-### [Hafta 3](https://github.com/volkansoner/YBS216/blob/master/W3.ipynb)
-- Koşullar
-- Döngüler
-
-### [Hafta 4](https://github.com/volkansoner/YBS216/blob/master/W4.ipynb)
-- 
-
-
-### [Hafta 5](https://github.com/volkansoner/YBS216/blob/master/W5.ipynb)
-- Fonksiyonlar
-
-
-### [Ders 6](https://github.com/volkansoner/YBS216/blob/master/W6.ipynb)
-- 
-
