@@ -28,7 +28,10 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 5.** Conditional Structures `if/while` - Mar 22, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week5.rar) :lock:
 
-* **Week 6.** Conditional Structures `for and others` - Mar 22, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week6.rar) :lock:
+* **Week 6.** For Structures `for` - Mar 29, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week6.rar) :lock:
+
+* **Week 7.** Lists `for` - Apr 5, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week7.rar) :lock:
+
 
 > [!NOTE]
 > Python codes are encrypted. Passwords are shared during the lesson.
