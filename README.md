@@ -30,8 +30,12 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 6.** For Structures `for` - Mar 29, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week6.rar) :lock:
 
-* **Week 7.** Lists `for` - Apr 5, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week7.rar) :lock:
+* **Week 7.** Lists, Nested Lists, Tumple - Apr 5, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week7.rar) :lock:
 
+* **Week 8.** Ramazan Eid - Apr 12, 2024 - 09.00 
+
+* **Week 9.** Midterm  - Apr 19, 2024 - 09.00 
+ 
 
 > [!NOTE]
 > Python codes are encrypted. Passwords are shared during the lesson.
