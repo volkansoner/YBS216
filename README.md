@@ -36,6 +36,7 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 9.** Midterm  - Apr 19, 2024 - 09.00 
  
+* **Week 10.** Recursive Function - Apr 26, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week10.rar) :lock:
 
 > [!NOTE]
 > Python codes are encrypted. Passwords are shared during the lesson.
