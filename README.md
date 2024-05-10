@@ -40,6 +40,8 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 11.** Some Functions and Problems - May 03, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week11.rar) :lock:
 
+* **Week 12.** Examples for Functions - May 10, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week12.rar) :lock:
+
 
 > [!NOTE]
 > Python codes are encrypted. Passwords are shared during the lesson.
