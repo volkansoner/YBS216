@@ -46,7 +46,7 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 14.** File IO & Applications - May 24, 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week14.rar) :lock:
 
-* **Week 14.** Others - May 31 , 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week15.rar) :lock:
+* **Week 15.** Others - May 31 , 2024 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week15.rar) :lock:
 
 > [!NOTE]
 > Python codes are encrypted. Passwords are shared during the lesson.
