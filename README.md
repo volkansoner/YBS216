@@ -18,7 +18,7 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 ## Contents 📂
 
-* **Week 1.** Introduction to Python Programming Language - Feb 07, 2025 - 09.00 - 📖 [Notes](https://volkansoner.github.io/files/YBS216/Week1.rar)
+* **Week 1.** Introduction to Python Programming Language - Feb 07, 2025 - 09.00 - 📖 [Notes](Week01.rar)
 
 * **Week 2.** Anaconda and Jupyter Notebook - Feb 14, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week2.rar) :lock:
 
