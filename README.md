@@ -20,33 +20,33 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 1.** Introduction to Python Programming Language - Feb 07, 2025 - 09.00 - 📖 [Notes](Week01.rar)
 
-* **Week 2.** Anaconda and Jupyter Notebook - Feb 14, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week2.rar) :lock:
+* **Week 2.** Anaconda and Jupyter Notebook - Feb 14, 2025 - 09.00 - :computer: [Codes](Week02.rar) :lock:
 
-* **Week 3.** Data Types - Feb 21, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week3.rar) :lock:
+* **Week 3.** Data Types - Feb 21, 2025 - 09.00 - :computer: [Codes](Week03.rar) :lock:
 
-* **Week 4.** Functions and Scope - Feb 28, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week4.rar) :lock:
+* **Week 4.** Functions and Scope - Feb 28, 2025 - 09.00 - :computer: [Codes](Week04.rar) :lock:
 
-* **Week 5.** Conditional Structures `if/while` - Mar 07, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week5.rar) :lock:
+* **Week 5.** Conditional Structures `if/while` - Mar 07, 2025 - 09.00 - :computer: [Codes](Week05.rar) :lock:
 
-* **Week 6.** For Structures `for` - Mar 14, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week6.rar) :lock:
+* **Week 6.** For Structures `for` - Mar 14, 2025 - 09.00 - :computer: [Codes](Week06.rar) :lock:
 
 * **Week 7.** Midterm  - Mar 21, 2025 - 09.00 
 
-* **Week 8.** Lists, Nested Lists, Tumple - Mar 28, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week8.rar) :lock:
+* **Week 8.** Lists, Nested Lists, Tumple - Mar 28, 2025 - 09.00 - :computer: [Codes](Week08.rar) :lock:
 
-* **Week 9.** Lists, Nested Lists, Tumple - Apr 04, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week8.rar) :lock:
+* **Week 9.** Lists, Nested Lists, Tumple - Apr 04, 2025 - 09.00 - :computer: [Codes](Week09.rar) :lock:
 
- * **Week 10.** Recursive Function - Apr 11, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week10.rar) :lock:
+ * **Week 10.** Recursive Function - Apr 11, 2025 - 09.00 - :computer: [Codes](Week10.rar) :lock:
 
-* **Week 11.** Some Functions and Problems - Apr 18, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week11.rar) :lock:
+* **Week 11.** Some Functions and Problems - Apr 18, 2025 - 09.00 - :computer: [Codes](Week11.rar) :lock:
 
-* **Week 12.** Examples for Functions - Apr 25, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week12.rar) :lock:
+* **Week 12.** Examples for Functions - Apr 25, 2025 - 09.00 - :computer: [Codes](Week12.rar) :lock:
 
-* **Week 13.** Exceptions - May 02, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week13.rar) :lock:
+* **Week 13.** Exceptions - May 02, 2025 - 09.00 - :computer: [Codes](Week13.rar) :lock:
 
-* **Week 14.** File IO & Applications - May 09, 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week14.rar) :lock:
+* **Week 14.** File IO & Applications - May 09, 2025 - 09.00 - :computer: [Codes](Week14.rar) :lock:
 
-* **Week 15.** Others - May 16 , 2025 - 09.00 - :computer: [Codes](https://volkansoner.github.io/files/YBS216/Week15.rar) :lock:
+* **Week 15.** Others - May 16 , 2025 - 09.00 - :computer: [Codes](Week15.rar) :lock:
 
 > [!NOTE]
 > Python codes are encrypted. Passwords are shared during the lesson.
