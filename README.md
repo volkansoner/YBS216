@@ -18,35 +18,35 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 ## Contents 📂
 
-* **Week 1.** Introduction to Python Programming Language - Feb 07, 2025 - 09.00 - 📖 [Notes](Week01.rar)
+* **Week 1.** Introduction to Python Programming Language - Feb 09, 2026 - 13.00 - 📖 [Notes](Week01.rar)
 
-* **Week 2.** Anaconda and Jupyter Notebook - Feb 14, 2025 - 09.00 - :computer: [Codes](Week02.rar) :lock:
+* **Week 2.** Anaconda and Jupyter Notebook - Feb 16, 2026 - 13.00 - :computer: [Codes](Week02.rar) :lock:
 
-* **Week 3.** Data Types - Feb 21, 2025 - 09.00 - :computer: [Codes](Week03.rar) :lock:
+* **Week 3.** Data Types - Feb 23, 2026 - 13.00 - :computer: [Codes](Week03.rar) :lock:
 
-* **Week 4.** Functions and Scope - Feb 28, 2025 - 09.00 - :computer: [Codes](Week04.rar) :lock:
+* **Week 4.** Functions and Scope - Feb 2, 2026 - 13.00 - :computer: [Codes](Week04.rar) :lock:
 
-* **Week 5.** Conditional Structures `if/while` - Mar 07, 2025 - 09.00 - :computer: [Codes](Week05.rar) :lock:
+* **Week 5.** Conditional Structures `if/while` - Mar 09, 2026 - 13.00 - :computer: [Codes](Week05.rar) :lock:
 
-* **Week 6.** For Structures `for` - Mar 14, 2025 - 09.00 - :computer: [Codes](Week06.rar) :lock:
+* **Week 6.** For Structures `for` - Mar 16, 2026 - 13.00 - :computer: [Codes](Week06.rar) :lock:
 
-* **Week 7.** Midterm  - Mar 21, 2025 - 09.00 
+* **Week 7.** Ramazan Eid - Mar 23, 2026 - 13.00 
 
-* **Week 8.** Lists - Mar 28, 2025 - 09.00 - :computer: [Codes](Week10.rar) :lock:
+* **Week 8.** Lists - Mar 30, 2026 - 13.00 - :computer: [Codes](Week10.rar) :lock:
 
-* **Week 9.** Ramazan Eid - Apr 04, 2025 - 09.00 
+* **Week 9.** Midterm - Apr 06, 2026 - 13.00 
 
-* **Week 10.** Lists, Nested Lists, Tumple - Apr 11, 2025 - 09.00 - :computer: [Codes](Week10.rar) :lock:
+* **Week 10.** Lists, Nested Lists, Tumple - Apr 13, 2026 - 13.00 - :computer: [Codes](Week10.rar) :lock:
 
-* **Week 11.** Recursive Function - Apr 18, 2025 - 09.00 - :computer: [Codes](Week11.rar) :lock:
+* **Week 11.** Recursive Function - Apr 20, 2026 - 13.00 - :computer: [Codes](Week11.rar) :lock:
 
-* **Week 12.** Examples for Functions, Some Functions and Problems - Apr 25, 2025 - 09.00 - :computer: [Codes](Week12.rar) :lock:
+* **Week 12.** Examples for Functions, Some Functions and Problems - Apr 27, 2026 - 13.00 - :computer: [Codes](Week12.rar) :lock:
 
-* **Week 13.** Exceptions - May 02, 2025 - 09.00 - :computer: [Codes](Week13.rar) :lock:
+* **Week 13.** Exceptions - May 04, 2026 - 13.00 - :computer: [Codes](Week13.rar) :lock:
 
-* **Week 14.** File IO & Applications - May 09 , 2025 - 09.00 - :computer: [Codes](Week14.rar) :lock:
+* **Week 14.** File IO & Applications - May 11, 2026 - 13.00 - :computer: [Codes](Week14.rar) :lock:
 
-* **Week 15.** Others - May 16, 2025 - 09.00 
+* **Week 15.** Others - May 18, 2026 - 13.00 
 
 
 > [!NOTE]
