@@ -30,15 +30,15 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 6.** For Structures `for` - Mar 16, 2026 - 13.00 - :computer: [Codes](Week06.rar) :lock:
 
-* **Week 7.** Ramazan Eid - Mar 23, 2026 - 13.00 
+* **Week 7.** Lists - Mar 23, 2026 - 13.00 - :computer: [Codes](Week07.rar) :lock:
 
-* **Week 8.** Lists - Mar 30, 2026 - 13.00 - :computer: [Codes](Week10.rar) :lock:
+* **Week 8.** Nested Lists, Tumple - Mar 30, 2026 - 13.00 - :computer: [Codes](Week08.rar) :lock:
 
 * **Week 9.** Midterm - Apr 06, 2026 - 13.00 
 
-* **Week 10.** Lists, Nested Lists, Tumple - Apr 13, 2026 - 13.00 - :computer: [Codes](Week10.rar) :lock:
+* **Week 10.** Recursive Function - Apr 13, 2026 - 13.00 - :computer: [Codes](Week10.rar) :lock:
 
-* **Week 11.** Recursive Function - Apr 20, 2026 - 13.00 - :computer: [Codes](Week11.rar) :lock:
+* **Week 11.** Examples for Recursive Function - Apr 20, 2026 - 13.00 - :computer: [Codes](Week11.rar) :lock:
 
 * **Week 12.** Examples for Functions, Some Functions and Problems - Apr 27, 2026 - 13.00 - :computer: [Codes](Week12.rar) :lock:
 
