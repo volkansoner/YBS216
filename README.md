@@ -34,7 +34,7 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 8.** Nested Lists, Tumple - Mar 30, 2026 - 13.00 - :computer: [Codes](Week08.rar) :lock:
 
-* **Week 9.** Midterm - [Sample Exam Questions](Sample Exam Questions.pdf)  Apr 06, 2026 - 13.00 
+* **Week 9.** Midterm - [Sample Exam Questions](SampleExamQuestions.pdf)  Apr 06, 2026 - 13.00 
 
 * **Week 10.** Recursive Function - Apr 13, 2026 - 13.00 - :computer: [Codes](Week10.rar) :lock:
 
