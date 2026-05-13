@@ -42,7 +42,7 @@ This is an undergraduate course repository of [Introduction to Python Programmin
 
 * **Week 12.** Exceptions and Examples for Exceptions - Apr 27, 2026 - 13.00 - :computer: [Codes](Week12.rar) :lock:
 
-* **Week 13.** The five most common problems and solutions - May 04, 2026 - 13.00 - :computer: [Codes](Week13.rar) :lock:
+* **Week 13.** The five most common problems and solutions - May 04, 2026 - 13.00 -
 
 * **Week 14.** File IO & Applications - May 11, 2026 - 13.00 - :computer: [Codes](Week14.rar) :lock:
 
